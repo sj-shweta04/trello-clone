@@ -1,7 +1,9 @@
 trello-clone
 
 #to run the app
+--------------------------
   Open your terminal then type 
-    cd trello-clone
-    npm i
-    npm start
+  -------------------------
+    1) cd trello-clone
+    2) npm i
+    3) npm start
